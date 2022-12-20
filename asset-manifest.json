@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/cjb-invite/static/css/main.8fb49cac.css",
-    "main.js": "/cjb-invite/static/js/main.10fa44b7.js",
+    "main.js": "/cjb-invite/static/js/main.2a4f668d.js",
     "index.html": "/cjb-invite/index.html",
     "main.8fb49cac.css.map": "/cjb-invite/static/css/main.8fb49cac.css.map",
-    "main.10fa44b7.js.map": "/cjb-invite/static/js/main.10fa44b7.js.map"
+    "main.2a4f668d.js.map": "/cjb-invite/static/js/main.2a4f668d.js.map"
   },
   "entrypoints": [
     "static/css/main.8fb49cac.css",
-    "static/js/main.10fa44b7.js"
+    "static/js/main.2a4f668d.js"
   ]
 }
